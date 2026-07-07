@@ -21,7 +21,7 @@
     "energy": -7.6802,
     "evaluation": "실험의 기준점이 되는 양성 대조군으로서, 타깃 단백질과 안정적이고 강력한 결합을 형성함.",
     "tip": "기존 용도도 코로나 19 치료제임.",
-    "file_name": "nirmatrelvir.sdf"
+    "file_name": "nir.sdf"
   },
   "ibuprofen": {
     "name": "이부프로펜 (Ibuprofen)",
@@ -29,6 +29,6 @@
     "energy": -5.6807,
     "evaluation": "가장 낮은 결합력을 도출함. 타깃 단백질과 무관한 약물은 결합력이 떨어짐을 역으로 확인하여 본 실험 설계의 타당성을 입증함.",
     "tip": "기존 용도는 해열진통제임. 작용 기전은 바이러스 억제 기전과 무관함.",
-    "file_name": "ibuprofen.sdf"
+    "file_name": "nirmatrelvir.sdf"
   }
 }
