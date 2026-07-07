@@ -2,7 +2,7 @@
   "remdesivir": {
     "name": "렘데시비르 (Remdesivir)",
     "type": "실험군 1",
-    "energy": -7.1924,
+    "energy": -7.5614,
     "evaluation": "유의미한 수치이나, 상대적으로 낮은 결합력을 보여 후보 물질으로는 부적합함. 이는 해당 약물이 Mpro 억제보다는 RdRp 억제에 더 특화되어 있다는 의학적 사실과 부합함 (표적 특이성 확인).",
     "tip": "기존에는 에볼라 치료제로 쓰임. 작용 기전은 RNA 복제 중합효소(RdRp) 억제임.",
     "file_name": "remdesivir.sdf"
